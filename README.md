@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @merely-a-moth
+- 👀 I’m interested in clean code in SO MANY languages
+- 🌱 I’m currently refreshing my knowledge
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 How to reach me: Undecided
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have been a software engineer for over 15 years.
